@@ -4,7 +4,7 @@ import styles from './styles'
 export default function Home(){
     return(
         <View style={styles.container}>
-            <Text>Página Home</Text>
+            <Text style={styles.txt}>Página Home</Text>
         </View>
     )
 }

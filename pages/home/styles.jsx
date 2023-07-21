@@ -6,6 +6,10 @@ const styles = StyleSheet.create({
         alignItems: 'center',
         justifyContent: 'center',
         width: '100%'
+    },
+    txt:{
+        fontSize: 30,
+        color: '#fff'
     }
 })
 
